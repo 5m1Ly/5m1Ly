@@ -5,5 +5,4 @@ Hello i'm Sm1Ly, a 20 year old software engineering student from the netherlands
 ## Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5m1Ly&count_private=true&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5m1Ly&count_private=true&theme=radical&langs_count=20&card_width=600)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5m1Ly&count_private=true&theme=radical&langs_count=20&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
