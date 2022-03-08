@@ -1,18 +1,6 @@
 # About Me
 
-Hello i'm Sm1Ly, a 20 year old software engineering student from the netherlands. I primarly build my own resources for the GTA V modification framework called FiveM. Next to this i build websites for clients as freelance projects and have build web applications for students to learn te dutch language and math.
-
-## Skills
-Here you'll find a table including the programming languages, library's and frameworks i used.
-
-| name         | version     | library's          | frameworks |
-|--------------|-------------|--------------------|------------|
-| html         | 5           |                    |            |
-| css          | 3           | bootstrap          |            |
-| JavaScript   | es6         | jQuery, DataTables | Node JS    |
-| PHP          | 7 > latest  |                    |            |
-| SQL          |             |                    |            |
-| Lua          | 53 > latest |                    | qbcore     |
+Hello i'm Sm1Ly, a 20 year old software engineering student from the netherlands. I primarly build my own resources for the GTA V modification framework called FiveM. Next to this i build websites for clients as freelance projects and have build web applications for students to learn te dutch language and math at my first internship.
 
 ## Github Stats
 
