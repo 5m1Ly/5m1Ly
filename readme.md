@@ -5,5 +5,7 @@ Hello i'm Sm1Ly, a 20 year old software engineering student from the netherlands
 ## Github Stats
 Here you'll find a nice overview of my github activity and my top used languages used across multible repositorys
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5m1Ly&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5m1Ly&count_private=true&theme=radical&langs_count=3&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=5m1Ly&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=5m1Ly&theme=dark&hide_border=true" width = 400>
+</p>
