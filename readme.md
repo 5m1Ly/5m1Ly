@@ -15,4 +15,5 @@ Over the past 5 years i gained expirance with:
 - jQuery latest
 - NodeJS 12.* -> latest
 - php 7 -> latest
-- SQL and Lua 53 -> latest
+- SQL
+- Lua 53 -> latest
