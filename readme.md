@@ -1,6 +1,6 @@
 # About Me
 
-Hello i'm Sm1Ly, a 20 year old software engineering student from the netherlands.
+Hello i'm 5m1Ly, a 21 year old software engineering student from the netherlands.
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=5m1Ly&show_icons=true&theme=bear" width = 400>
