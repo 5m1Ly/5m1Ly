@@ -5,10 +5,7 @@ Hello i'm Hayo Bouma aka 5m1Ly, a 21 year old software engineering student from 
 Over the past 6 years i gained expirance with:
 - HTML 5
 - CSS 3
-- Bootstrap 4 -> latest
 - JavaScript es5 -> latest
-- jQuery latest
-- NodeJS 12.* -> latest
 - php 7 -> latest
 - SQL
 - Lua 53 -> latest
