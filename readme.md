@@ -3,9 +3,9 @@
 Hello i'm Hayo Bouma aka 5m1Ly, a 21 year old software engineering student from the netherlands.
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=5m1Ly&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=5m1Ly&show_icons=true&theme=bear&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=5m1Ly&theme=dark&hide_border=true" width = 400>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=5m1Ly&layout=compact" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=5m1Ly&layout=compac&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515t" width = 400>
 </p>
 
 Over the past 5 years i gained expirance with:
