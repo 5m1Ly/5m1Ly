@@ -2,7 +2,14 @@
 
 Hello i'm Hayo Bouma aka 5m1Ly, a 21 year old software engineering student from the netherlands.
 
-Over the past 6 years i gained expirance with:
+Over the past 6 years i...
+
+Had internships at:
+- FC-Sprint2 Bronnenbedrijf (2018-2019)
+- Veranto B.V. (2022-2023)
+  - [website](https://veranto.nl/)
+
+Gained expirance with:
 - HTML 5
 - CSS 3
 - JavaScript es5 -> latest
