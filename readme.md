@@ -20,5 +20,4 @@ Gained expirance with:
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=5m1Ly&show_icons=true&theme=dark&hide_border=true" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=5m1Ly&theme=dark&hide_border=true" width = 400>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=5m1Ly&theme=dark&layout=compact&hide_border=true" width = 400>
 </p>
