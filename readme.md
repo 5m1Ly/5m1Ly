@@ -2,14 +2,25 @@
 
 Hello i'm Hayo Bouma aka 5m1Ly, a 21 year old software engineering student from the netherlands.
 
-## Over the past 6 years i...
+## Over the past 7 years i...
 
-**Had internships at:**
-- FC-Sprint2 Bronnenbedrijf (2018-2019)
-- Veranto B.V. (2022-2023)
+**Had Internships At:**
+- Veranto B.V. (10-'22 > 12-'22)
   - [website](https://veranto.nl/)
+- FC-Sprint2 Bronnenbedrijf ('18 > '19)
 
-**Gained expirance with:**
+**Contributed To:
+- [**Tencent**](https://github.com/tencent):
+  - [LuaHelper](https://github.com/Tencent/LuaHelper)
+- [**Directus**](https://github.com/directus):
+  - [sdk](https://github.com/directus/sdk)
+- [**qbcore-framework**](https://github.com/qbcore-framework):
+  - [qb-inventory](https://github.com/qbcore-framework/qb-inventory)
+  - [qb-clothing](https://github.com/qbcore-framework/qb-clothing)
+- [**EntityEvolution**](https://github.com/EntityEvolution):
+  - [ev-hud](https://github.com/EntityEvolution/ev-hud)
+
+**Gained Expirance With:**
 - HTML 5
 - CSS 3
 - JavaScript es5 -> latest
