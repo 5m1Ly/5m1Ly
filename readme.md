@@ -9,7 +9,7 @@ Hello i'm Hayo Bouma aka 5m1Ly, a 21 year old software engineering student from 
   - [website](https://veranto.nl/)
 - FC-Sprint2 Bronnenbedrijf ('18 > '19)
 
-**Contributed To:
+**Contributed To:**
 - [**Tencent**](https://github.com/tencent):
   - [LuaHelper](https://github.com/Tencent/LuaHelper)
 - [**Directus**](https://github.com/directus):
