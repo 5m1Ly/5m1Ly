@@ -5,8 +5,6 @@ Hello i'm Hayo Bouma aka 5m1Ly, a 21 year old software engineering student from 
 ## Over the past 7 years i...
 
 **Had Internships At:**
-- Veranto B.V. (10-'22 > 12-'22)
-  - [website](https://veranto.nl/)
 - FC-Sprint2 Bronnenbedrijf ('18 > '19)
 
 **Contributed To:**
