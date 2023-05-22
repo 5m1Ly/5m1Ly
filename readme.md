@@ -4,6 +4,9 @@ Hello i'm Hayo Bouma aka 5m1Ly, a 21 year old software engineering student from 
 
 ## Over the past 7 years i...
 
+**Worked At:**
+- [Cloud++](https://cloudplusplus.nl)
+
 **Had Internships At:**
 - FC-Sprint2 Bronnenbedrijf ('18 > '19)
 
@@ -17,15 +20,6 @@ Hello i'm Hayo Bouma aka 5m1Ly, a 21 year old software engineering student from 
   - [qb-clothing](https://github.com/qbcore-framework/qb-clothing)
 - [**EntityEvolution**](https://github.com/EntityEvolution):
   - [ev-hud](https://github.com/EntityEvolution/ev-hud)
-
-**Gained Expirance With:**
-- HTML 5
-- CSS 3
-- JavaScript es5 -> latest
-- TypeScript ?? -> ??
-- php 7 -> latest
-- SQL
-- Lua 53 -> latest
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=5m1Ly&show_icons=true&theme=dark&hide_border=true" width = 400>
