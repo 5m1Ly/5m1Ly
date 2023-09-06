@@ -5,7 +5,7 @@ Hello i'm Hayo Bouma aka 5m1Ly, a 21 year old software engineering student from 
 ## Over the past 7 years i...
 
 **Worked At:**
-- [Cloud++](https://cloudplusplus.nl)
+- [Cloud++](https://cloudplusplus.nl) (March '23 > August '23)
 
 **Had Internships At:**
 - FC-Sprint2 Bronnenbedrijf ('18 > '19)
