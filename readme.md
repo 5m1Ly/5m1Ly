@@ -1,6 +1,6 @@
 # About Me
 
-Hello i'm Hayo Bouma aka 5m1Ly, a 23 year old software engineering from the netherlands.
+Hello i'm 5m1Ly, a 23 year old software engineering from the netherlands.
 
 ## Over the past 7 years i...
 
