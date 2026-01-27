@@ -1,14 +1,16 @@
 # About Me
 
-Hello i'm 5m1Ly, a 23 year old software engineering from the netherlands.
+Hello i'm 5m1Ly, a 24 year old software engineering from the netherlands.
 
-## Over the past 7 years i...
+## Over the past 8 years i...
 
 **Worked At:**
-- [Cloud++](https://cloudplusplus.nl) (March '23 > August '23)
+- [PIA Service](https://piaservice.nl) (2025 > Present)
+- [Cloud++](https://cloudplusplus.nl) (2023)
 
 **Had Internships At:**
-- FC-Sprint2 Bronnenbedrijf ('18 > '19)
+- Wild ICT (2024)
+- FC-Sprint2 Bronnenbedrijf (2018 & 2019)
 
 **Contributed To:**
 - [**Tencent**](https://github.com/tencent):
